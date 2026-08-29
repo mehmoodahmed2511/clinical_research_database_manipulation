@@ -1,0 +1,38 @@
+- First names of patients from Karachi
+- Total patients in each city
+- Patient with visit id, first name, last name, visit date
+- Doctor with patient name, visit id, visit date, and diagnosis
+- Patient with trail id and admission data
+- Patient and its admission date
+- Patient with trial id
+- Each visit with Prescription and medication detail
+- Doctors with total visits
+- Patient with total visits
+- Patient who visited the clinic most
+- Count number of Patients in each Trial
+- Get top 2 doctors with highest number of visits
+- Find patients who have more visits than average
+- Get doctors who handled more visits than average
+- Find patients who participated in "Cancer Study A"
+- Get medications that were prescribed more than average quantity
+- Find patients who visited more than 1 doctor
+- Get latest visit for each patient
+- Find patients with no prescriptions
+- Get running total of prescriptions quantity ordered by visit date
+- Rank doctors based on number of visits
+- Find second most active doctor (by visits)
+- Get latest visit for each patient
+- Get latest visit for each doctor
+- A patient visited multiple times — find first visit date per patient
+- Create a stored procedure to Get all patients from a given city (input parameter)
+- Create a stored procedure to: Return all visits of a specific patientID
+- Create a stored procedure to: Get all doctors by specialization
+- Create a stored procedure to: Count number of visits for a given patientID and Return the count
+- Create a stored procedure to: Get all patients who are enrolled in a specific trial name
+- Create a stored procedure to: Insert a new patient into the Patients table (Use parameters for all fields)
+- Create a stored procedure to: Return latest visit details for a given patient
+- Create a stored procedure to: Get doctor-wise total visits (Use GROUP BY inside procedure)
+- Create a stored procedure to: Return patients who have more than X visits (X should be a parameter)
+- Create a stored procedure to: Update medication quantity for a given prescriptionID
+- Create a stored procedure to: Delete duplicate patients based on: firstName, lastName, dateOfBirth
+- Create a stored procedure to: Return a ranked list of doctors based on number of visits
